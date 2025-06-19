@@ -21,7 +21,6 @@ A clean and modern **Responsive Profile Card** built using HTML and CSS. This co
 ## 📸 Preview
 
 ![Profile Card Screenshot](/assets/output.png)
-> *Replace the link above with an actual screenshot if available.*
 
 ## 📁 Folder Structure
 

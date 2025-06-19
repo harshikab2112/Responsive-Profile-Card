@@ -24,11 +24,11 @@ A clean and modern **Responsive Profile Card** built using HTML and CSS. This co
 
 ## 📁 Folder Structure
 
-responsive-profile-card/
 ├── index.html
 ├── style.css
 ├── assets/
-│   └── profile.jpg   # (or any image used)
+│   └── profile-picture.jpg
+|   └── output.png
 └── README.md
 
 ````
@@ -62,4 +62,4 @@ If you like this project, feel free to connect or collaborate
 
 > Designed & developed with ❤️ by Harshika Bansal
 
-```
+---

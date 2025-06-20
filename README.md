@@ -35,7 +35,7 @@ A clean and modern **Responsive Profile Card** built using HTML and CSS. This co
 ## 🚀 How to Use
 
 1. Clone the repository:
-   ```bash
+
    git clone https://github.com/harshikab2112/responsive-profile-card.git
 
 2. Open `index.html` in your browser to view the card.

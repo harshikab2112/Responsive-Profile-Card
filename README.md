@@ -22,6 +22,7 @@ A clean and modern **Responsive Profile Card** built using HTML and CSS. This co
 
 ![Profile Card Screenshot](/assets/output.png)
 
+````
 ## 📁 Folder Structure
 
 ├── index.html
@@ -31,13 +32,12 @@ A clean and modern **Responsive Profile Card** built using HTML and CSS. This co
 |   └── output.png
 └── README.md
 
-````
-
 ## 🚀 How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/responsive-profile-card.git
+   git clone https://github.com/harshikab2112/responsive-profile-card.git
+   ```
 ````
 2. Open `index.html` in your browser to view the card.
 
